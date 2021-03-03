@@ -1,0 +1,194 @@
+[{
+    "id" : 0,
+    "teamName" : "None",
+    "stadium" : "None",
+    "mlbTeamId" : 0,
+    "distanceMatrixId" : 0
+  },{
+    "id" : 1,
+    "teamName" : "Baltimore Orioles",
+    "stadium" : "Oriole Park at Camden Yards",
+    "mlbTeamId" : 110,
+    "distanceMatrixId" : 4
+  },{
+    "id" : 2,
+    "teamName" : "Arizona Diamondbacks",
+    "stadium" : "Chase Field",
+    "mlbTeamId" : 109,
+    "distanceMatrixId" : 2
+  },{
+    "id" : 3,
+    "teamName" : "Boston Red Sox",
+    "stadium" : "Fenway Park",
+    "mlbTeamId" : 111,
+    "distanceMatrixId" : 5
+  },{
+    "id" : 4,
+    "teamName" : "Atlanta Braves",
+    "stadium" : "Truist Park",
+    "mlbTeamId" : 144,
+    "distanceMatrixId" : 3
+  },{
+    "id" : 5,
+    "teamName" : "Chicago White Sox",
+    "stadium" : "Guaranteed Rate Field",
+    "mlbTeamId" : 145,
+    "distanceMatrixId" : 7
+  },{
+    "id" : 6,
+    "teamName" : "Chicago Cubs",
+    "stadium" : "Wrigley Field",
+    "mlbTeamId" : 112,
+    "distanceMatrixId" : 6
+  },{
+    "id" : 7,
+    "teamName" : "Cleveland Indians",
+    "stadium" : "Progressive Field",
+    "mlbTeamId" : 114,
+    "distanceMatrixId" : 9
+  },{
+    "id" : 8,
+    "teamName" : "Cincinnati Reds",
+    "stadium" : "Great American Ball Park",
+    "mlbTeamId" : 113,
+    "distanceMatrixId" : 8
+  },{
+    "id" : 9,
+    "teamName" : "Detroit Tigers",
+    "stadium" : "Comerica Park",
+    "mlbTeamId" : 116,
+    "distanceMatrixId" : 11
+  },{
+    "id" : 10,
+    "teamName" : "Colorado Rockies",
+    "stadium" : "Coors Field",
+    "mlbTeamId" : 115,
+    "distanceMatrixId" : 10
+  },{
+    "id" : 11,
+    "teamName" : "Houston Astros",
+    "stadium" : "Minute Maid Park",
+    "mlbTeamId" : 117,
+    "distanceMatrixId" : 13
+  },{
+    "id" : 12,
+    "teamName" : "Los Angeles Dodgers",
+    "stadium" : "Dodger Stadium",
+    "mlbTeamId" : 119,
+    "distanceMatrixId" : 15
+  },{
+    "id" : 13,
+    "teamName" : "Kansas City Royals",
+    "stadium" : "Kauffman Stadium",
+    "mlbTeamId" : 118,
+    "distanceMatrixId" : 14
+  },{
+    "id" : 14,
+    "teamName" : "Miami Marlins",
+    "stadium" : "Marlins Park",
+    "mlbTeamId" : 146,
+    "distanceMatrixId" : 12
+  },{
+    "id" : 15,
+    "teamName" : "Los Angeles Angels",
+    "stadium" : "Angels Stadium of Anaheim",
+    "mlbTeamId" : 108,
+    "distanceMatrixId" : 1
+  },{
+    "id" : 16,
+    "teamName" : "Milwaukee Brewers",
+    "stadium" : "American Family Field",
+    "mlbTeamId" : 158,
+    "distanceMatrixId" : 16
+  },{
+    "id" : 17,
+    "teamName" : "Minnesota Twins",
+    "stadium" : "Target Field",
+    "mlbTeamId" : 142,
+    "distanceMatrixId" : 17
+  },{
+    "id" : 18,
+    "teamName" : "New York Mets",
+    "stadium" : "Citi Field",
+    "mlbTeamId" : 121,
+    "distanceMatrixId" : 19
+  },{
+    "id" : 19,
+    "teamName" : "New York Yankees",
+    "stadium" : "Yankee Stadium",
+    "mlbTeamId" : 147,
+    "distanceMatrixId" : 20
+  },{
+    "id" : 20,
+    "teamName" : "Philadelphia Phillies",
+    "stadium" : "Citizens Bank Park",
+    "mlbTeamId" : 143,
+    "distanceMatrixId" : 22
+  },{
+    "id" : 21,
+    "teamName" : "Oakland Athletics",
+    "stadium" : "RingCentral Coliseum",
+    "mlbTeamId" : 133,
+    "distanceMatrixId" : 21
+  },{
+    "id" : 22,
+    "teamName" : "Pittsburgh Pirates",
+    "stadium" : "PNC Park",
+    "mlbTeamId" : 134,
+    "distanceMatrixId" : 23
+  },{
+    "id" : 23,
+    "teamName" : "Seattle Mariners",
+    "stadium" : "T-Mobile Park",
+    "mlbTeamId" : 136,
+    "distanceMatrixId" : 26
+  },{
+    "id" : 24,
+    "teamName" : "San Diego Padres",
+    "stadium" : "Petco Park",
+    "mlbTeamId" : 135,
+    "distanceMatrixId" : 24
+  },{
+    "id" : 25,
+    "teamName" : "Tampa Bay Rays",
+    "stadium" : "Tropicana Field",
+    "mlbTeamId" : 139,
+    "distanceMatrixId" : 28
+  },{
+    "id" : 26,
+    "teamName" : "San Francisco Giants",
+    "stadium" : "Oracle Park",
+    "mlbTeamId" : 137,
+    "distanceMatrixId" : 25
+  },{
+    "id" : 27,
+    "teamName" : "Texas Rangers",
+    "stadium" : "Globe Life Field",
+    "mlbTeamId" : 140,
+    "distanceMatrixId" : 29
+  },{
+    "id" : 28,
+    "teamName" : "St. Louis Cardinals",
+    "stadium" : "Busch Stadium",
+    "mlbTeamId" : 138,
+    "distanceMatrixId" : 27
+  },{
+    "id" : 29,
+    "teamName" : "Toronto Blue Jays",
+    "stadium" : "Rogers Centre",
+    "mlbTeamId" : 141,
+    "distanceMatrixId" : 30
+  },{
+    "id" : 30,
+    "teamName" : "Washington Nationals",
+    "stadium" : "Nationals Park",
+    "mlbTeamId" : 120,
+    "distanceMatrixId" : 18
+  },{
+    "id" : 31,
+    "teamName" : "None",
+    "stadium" : "None",
+    "mlbTeamId" : 0,
+    "distanceMatrixId" : 0
+  }
+]

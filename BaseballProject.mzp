@@ -1,0 +1,12 @@
+{
+    "openFiles": [
+        "BaseballModel.mzn"
+    ],
+    "openTab": 0,
+    "projectFiles": [
+        "BaseballModel.mzn",
+        "config.mpc"
+    ],
+    "selectedSolverConfigFile": "config.mpc",
+    "version": 106
+}
